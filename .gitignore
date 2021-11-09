@@ -1,3 +1,4 @@
 *.nt
+*.tsv
 .python-version
 .ipynb_checkpoints/
