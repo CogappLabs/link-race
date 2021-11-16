@@ -1,3 +1,4 @@
-hc_dump_latest.nt
+*.nt
+*.tsv
 .python-version
 .ipynb_checkpoints/
