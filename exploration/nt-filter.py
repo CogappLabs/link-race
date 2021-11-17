@@ -8,38 +8,38 @@ def process_line(line, properties):
 if __name__ == '__main__':
 
     properties = [
-        "hc:entityPERSON",
-        "hc:entityORG",
-        "hc:entityNORP",
-        "hc:entityFAC",
-        "hc:entityLOC",
-        "hc:entityOBJECT",
+        # "hc:entityPERSON",
+        # "hc:entityORG",
+        # "hc:entityNORP",
+        # "hc:entityFAC",
+        # "hc:entityLOC",
+        # "hc:entityOBJECT",
         # "hc:entityLANGUAGE",
         # "hc:entityDATE",
         # "sdo:birthDate",
         # "sdo:deathDate",
         # "sdo:foundingDate",
         # "sdo:dissolutionDate",
-        # "foaf:maker",
-        # "foaf:made",
+        "foaf:maker",
+        "foaf:made",
         # "sdo:mentions",
         # "owl:sameAs",
         # "skos:related",
         # "skos:relatedMatch",
         "wdt:P101", # field of work
-        # "wdt:P1056",
+        "wdt:P1056",
         "wdt:P106", # occupation
-        # "wdt:P127",
-        # "wdt:P135",
-        # "wdt:P136",
-        # "wdt:P137",
-        # "wdt:P1535",
+        "wdt:P127",
+        "wdt:P135",
+        "wdt:P136",
+        "wdt:P137",
+        "wdt:P1535",
         "wdt:P17", # country
-        # "wdt:P176",
-        # "wdt:P18",
-        # "wdt:P180",
-        # "wdt:P20",
-        # "wdt:P21", # sex or gender
+        "wdt:P176",
+        "wdt:P18",
+        "wdt:P180",
+        "wdt:P20",
+        "wdt:P21", # sex or gender
         "wdt:P27",
         "wdt:P279",
         "wdt:P287",
@@ -52,8 +52,8 @@ if __name__ == '__main__':
         "wdt:P710",
         "wdt:P749",
         "wdt:P793",
-        "sdo:birthPlace",
-        "sdo:deathPlace",
+        # "sdo:birthPlace",
+        # "sdo:deathPlace",
     ]
 
     properties = [i.split(':')[1] for i in properties]
