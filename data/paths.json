@@ -7,7 +7,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co193913"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -16,7 +17,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110017832",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -25,7 +27,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/ap13789"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110017832"
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110017832",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -34,12 +37,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -50,7 +55,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co102558"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -59,7 +65,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -68,7 +75,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/cp17553"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27812"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -77,12 +85,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -93,7 +103,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/cp75829"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -102,14 +113,16 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29107",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
         "http://www.wikidata.org/entity/Q84"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29107"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29107",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -118,12 +131,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -134,7 +149,8 @@
         "https://api.vam.ac.uk/v2/objects/search?id_event=AUTH346831"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -143,7 +159,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27811",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -152,7 +169,8 @@
         "http://www.wikidata.org/entity/Q353135"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27811"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27811",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -161,12 +179,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -177,7 +197,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co4510"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -186,7 +207,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -195,7 +217,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/cp26280"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -204,12 +227,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -220,7 +245,8 @@
         "Courtrai"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -229,7 +255,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co430567",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -237,7 +264,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/cp31792"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co430567"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co430567",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -246,12 +274,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -262,7 +292,8 @@
         "http://www.wikidata.org/entity/Q2110808"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -271,7 +302,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27813",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -280,7 +312,8 @@
         "http://www.wikidata.org/entity/Q1165625"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27813"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap27813",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -289,12 +322,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -305,7 +340,8 @@
         "http://www.wikidata.org/entity/Q6811281"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -314,7 +350,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap25206",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -323,7 +360,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co54476"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25206"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25206",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -332,12 +370,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -348,7 +388,8 @@
         "http://collections.vam.ac.uk/item/O70667"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -357,7 +398,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp115538",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -366,7 +408,8 @@
         "http://www.wikidata.org/entity/Q4968916"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp115538"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp115538",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -375,12 +418,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -391,7 +436,8 @@
         "https://api.vam.ac.uk/v2/objects/search?id_person=A6838"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -400,14 +446,16 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110020213",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
         "http://www.wikidata.org/entity/Q84"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110020213"
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110020213",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -416,12 +464,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -432,7 +482,8 @@
         "https://api.vam.ac.uk/v2/objects/search?id_person=N7834"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -441,7 +492,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8665506",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -450,7 +502,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/cp125794"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8665506"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8665506",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -459,12 +512,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -475,7 +530,8 @@
         "making modern communications"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -484,7 +540,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29251",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -493,7 +550,8 @@
         "http://www.wikidata.org/entity/Q487070"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29251"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29251",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -502,12 +560,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -518,7 +578,8 @@
         "toronto, bonn"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -527,7 +588,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://blog.sciencemuseum.org.uk/v-2-the-rocket-that-launched-the-space-age/",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -536,7 +598,8 @@
         "http://www.wikidata.org/entity/Q41749"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://blog.sciencemuseum.org.uk/v-2-the-rocket-that-launched-the-space-age/"
+      "url": "https://blog.sciencemuseum.org.uk/v-2-the-rocket-that-launched-the-space-age/",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -545,12 +608,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -561,7 +626,8 @@
         "http://collections.vam.ac.uk/item/O1287304"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -570,7 +636,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap7847",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -579,7 +646,8 @@
         "https://collection.sciencemuseumgroup.org.uk/people/ap10090"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap7847"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap7847",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -588,12 +656,14 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -604,7 +674,8 @@
         "leighton watts,"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -613,7 +684,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp18482",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -622,7 +694,8 @@
         "http://www.wikidata.org/entity/Q315346"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q4688512",
-      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp18482"
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp18482",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -631,12 +704,14 @@
         "http://www.wikidata.org/entity/Q2519914"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "http://www.wikidata.org/entity/Q4688512"
+      "url": "http://www.wikidata.org/entity/Q4688512",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ],
   [
@@ -647,7 +722,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8669856"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q84",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "progress": 0.0
     },
     {
       "neighbours": [
@@ -656,7 +732,8 @@
         "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q145",
-      "url": "http://www.wikidata.org/entity/Q84"
+      "url": "http://www.wikidata.org/entity/Q84",
+      "progress": 25.0
     },
     {
       "neighbours": [
@@ -665,7 +742,8 @@
         "http://www.wikidata.org/entity/Q2270422"
       ],
       "nextBestStep": "http://www.wikidata.org/entity/Q4688512",
-      "url": "http://www.wikidata.org/entity/Q145"
+      "url": "http://www.wikidata.org/entity/Q145",
+      "progress": 50.0
     },
     {
       "neighbours": [
@@ -674,12 +752,14 @@
         "http://www.wikidata.org/entity/Q2519914"
       ],
       "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
-      "url": "http://www.wikidata.org/entity/Q4688512"
+      "url": "http://www.wikidata.org/entity/Q4688512",
+      "progress": 75.0
     },
     {
       "neighbours": [],
       "nextBestStep": "END",
-      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "progress": 100.0
     }
   ]
 ]
