@@ -1,23 +1,31 @@
 import requests
 
-def scimu(type, id):
+def scimu(obj_type, id):
     """
-    type = objects, people, documents
+    obj_type = objects, people, documents
     id = 'cp26280'
     """
 
     base = 'https://collection.sciencemuseumgroup.org.uk'
-    url = f'{base}/{type}/{id}'
+    url = f'{base}/{obj_type}/{id}'
     r = requests.get(url, headers={'Accept': 'application/json'}).json()
 
-    try:
-        title = r['data']['attributes']['title'][0]['value']
-    except KeyError:
-        title = ''
+    if obj_type == 'people':
+        try:
+            title = r['data']['attributes']['summary_title']
+        except KeyError:
+            title = '' 
+    else:
+        try:
+            title = r['data']['attributes']['title'][0]['value']
+        except KeyError:
+            title = ''
+    
     try:
         description = r['data']['attributes']['description'][0]['value']
     except KeyError:
         description = ''
+    
     try:
         img = r['data']['attributes']['multimedia'][0]['processed']['large']['location']
     except KeyError:
@@ -35,7 +43,7 @@ def vanda(id):
 
     try:
         title = r['record']['titles'][0]['title']
-    except KeyError:
+    except (KeyError, IndexError):
         title = ''
     try:
         description = r['record']['briefDescription']
@@ -56,4 +64,5 @@ def vanda(id):
 if __name__ == '__main__':
     # r = scimu('objects', 'co8022291')
     # r = scimu('documents', 'aa110002873')
-    r = vanda('O77348')
+    r = scimu('people', 'ap10090')
+    # r = vanda('O77348')
