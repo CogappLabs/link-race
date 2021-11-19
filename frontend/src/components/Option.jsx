@@ -2,16 +2,22 @@ import React from 'react';
 // Components
 import Modal from './Modal';
 
-const Option = ({ optionUrl }) => (
-    <div className="option">
-        {/* TODO: This to be an image? */}
-        <button>{optionUrl}</button>
+const Option = ({ optionUrl, toggleModal, showModal, optionMetadata }) => {
+    console.log("option metadata", optionMetadata)
 
-        {/* Modal with info about the object */}
-        <Modal>
-            <div>I am the info about the object</div>
-        </Modal>
-    </div>
-)
+    return (
+        <div className="option">
+            {/* TODO: This to be an image? */}
+            <button onClick={toggleModal}>{optionUrl}</button>
+
+            {/* Modal with info about the object */}
+            {showModal && (
+                <Modal>
+                    <div>I am the info about the object</div>
+                </Modal>
+            )}
+        </div>
+    )
+}
 
 export default Option
