@@ -1,0 +1,700 @@
+[
+  [
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+        "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+        "http://collections.vam.ac.uk/item/O1145702"
+      ],
+      "nextBestStep": "http://www.wikidata.org/entity/Q84"
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q84",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+        "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+        "http://collections.vam.ac.uk/item/O1145702"
+      ],
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap25206"
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap25206",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co55165",
+        "http://www.wikidata.org/entity/Q123738",
+        "http://www.wikidata.org/entity/Q179385"
+      ],
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+        "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+        "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+      ],
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+      "neighbours": [],
+      "nextBestStep": "END"
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27813"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap27813": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q1165625",
+          "http://www.wikidata.org/entity/Q145",
+          "http://www.wikidata.org/entity/Q353135"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29107"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29107": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q84"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8665506"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co8665506": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q2256",
+          "http://www.wikidata.org/entity/Q84",
+          "http://www.wikidata.org/entity/Q5393524"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co430567"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co430567": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/cp31792",
+          "http://www.wikidata.org/entity/Q84"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27811"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap27811": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q5494955",
+          "http://www.wikidata.org/entity/Q720612",
+          "http://www.wikidata.org/entity/Q145"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110020213"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/documents/aa110020213": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q84"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://blog.sciencemuseum.org.uk/v-2-the-rocket-that-launched-the-space-age/"
+      }
+    },
+    {
+      "https://blog.sciencemuseum.org.uk/v-2-the-rocket-that-launched-the-space-age/": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q490398",
+          "http://www.wikidata.org/entity/Q15180",
+          "http://www.wikidata.org/entity/Q214820"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap27812"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap27812": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/cp45845",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27810",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp33500"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap7847"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap7847": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/documents/aa110065718",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17005",
+          "http://www.wikidata.org/entity/Q47952"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29251"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29251": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q487070",
+          "http://www.wikidata.org/entity/Q183",
+          "http://www.wikidata.org/entity/Q26172"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp115538"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/cp115538": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q7231999",
+          "https://collection.sciencemuseumgroup.org.uk/objects/co8079667",
+          "http://www.wikidata.org/entity/Q1234797"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110017832"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/documents/aa110017832": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/cp26280",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap13789",
+          "http://www.wikidata.org/entity/Q84"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co8341469": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/cp26280",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap13789",
+          "http://www.wikidata.org/entity/Q84"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/ap12850": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/people/ap27812",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap17586",
+          "https://collection.sciencemuseumgroup.org.uk/people/ap2439"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "http://www.wikidata.org/entity/Q145"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q145": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q1776329",
+          "http://www.wikidata.org/entity/Q4328352",
+          "https://collection.sciencemuseumgroup.org.uk/objects/co8398869"
+        ],
+        "nextBestStep": "http://www.wikidata.org/entity/Q4688512"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q4688512": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q145",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp18482",
+          "http://www.wikidata.org/entity/Q2519914"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ],
+  [
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co91945": {
+        "neighbours": [],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q84": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co126715",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp40088",
+          "http://collections.vam.ac.uk/item/O1145702"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp18482"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/people/cp18482": {
+        "neighbours": [
+          "https://collection.sciencemuseumgroup.org.uk/objects/co109366",
+          "https://collection.sciencemuseumgroup.org.uk/objects/co108873",
+          "http://www.wikidata.org/entity/Q9439"
+        ],
+        "nextBestStep": "http://www.wikidata.org/entity/Q4688512"
+      }
+    },
+    {
+      "http://www.wikidata.org/entity/Q4688512": {
+        "neighbours": [
+          "http://www.wikidata.org/entity/Q145",
+          "https://collection.sciencemuseumgroup.org.uk/people/cp18482",
+          "http://www.wikidata.org/entity/Q2519914"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819"
+      }
+    },
+    {
+      "https://collection.sciencemuseumgroup.org.uk/objects/co29819": {
+        "neighbours": [],
+        "nextBestStep": "END"
+      }
+    }
+  ]
+]

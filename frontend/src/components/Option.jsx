@@ -2,9 +2,10 @@ import React from 'react';
 // Components
 import Modal from './Modal';
 
-const Option = () => (
+const Option = ({ optionUrl }) => (
     <div className="option">
-        <button>Click me to see info about the object</button>
+        {/* TODO: This to be an image? */}
+        <button>{optionUrl}</button>
 
         {/* Modal with info about the object */}
         <Modal>

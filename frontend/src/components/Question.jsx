@@ -3,25 +3,25 @@ import React from 'react';
 import Modal from './Modal';
 import Option from './Option';
 
-const Question = ({ question, answer, userAnswer, goToNextObject, checkAnswer }) => (
+const Question = ({ answers, correctAnswer, userAnswer, goToNextObject, checkAnswer }) => (
     <div className="question">
         {/* Options */}
-        {/* TODO: map() the options from the API */}
+        {/* TODO: map() the answers */}
         <div>
-            <Option checkAnswer={checkAnswer} />
-            <Option checkAnswer={checkAnswer} />
-            <Option checkAnswer={checkAnswer} />
-            <Option checkAnswer={checkAnswer} />
+            {answers.map((answer) => (
+                <Option 
+                    // NB: Might need to refactor if answer is more than one thing
+                    key={answer}
+                    optionUrl={answer} />
+            ))}
         </div>
 
         {/* Answer form */}
         <p>Pick an answer below</p>
         <form>
-        {/* TODO: map() the options from the API */}
-            <button>Option 1</button>
-            <button>Option 2</button>
-            <button>Option 3</button>
-            <button>Option 4</button>
+            {answers.map((answer) => (
+                <button key={answer}>{answer}</button>
+            ))}
         </form>
 
         {/* Modal */}
