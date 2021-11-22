@@ -1,0 +1,48 @@
+[
+    {
+        "neighbours": [
+            "https://collection.sciencemuseumgroup.org.uk/objects/co8604321",
+            "https://collection.sciencemuseumgroup.org.uk/objects/co229676",
+            "https://collection.sciencemuseumgroup.org.uk/objects/co4510"
+        ],
+        "nextBestStep": "http://www.wikidata.org/entity/Q84",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co91945",
+        "progress": 0.0
+    },
+    {
+        "neighbours": [
+            "https://collection.sciencemuseumgroup.org.uk/objects/co422877",
+            "http://collections.vam.ac.uk/item/O77348",
+            "https://collection.sciencemuseumgroup.org.uk/objects/co8644745"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469",
+        "url": "http://www.wikidata.org/entity/Q84",
+        "progress": 25.0
+    },
+    {
+        "neighbours": [
+            "https://collection.sciencemuseumgroup.org.uk/people/ap13789",
+            "http://www.wikidata.org/entity/Q84",
+            "https://collection.sciencemuseumgroup.org.uk/people/cp26280"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8341469",
+        "progress": 50.0
+    },
+    {
+        "neighbours": [
+            "https://collection.sciencemuseumgroup.org.uk/objects/co8654112/barbara-grimes-and-her-horse-lucky-boy-photograph",
+            "https://collection.sciencemuseumgroup.org.uk/documents/aa110068399",
+            "https://collection.sciencemuseumgroup.org.uk/objects/co29818"
+        ],
+        "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/ap12850",
+        "progress": 75.0
+    },
+    {
+        "neighbours": [],
+        "nextBestStep": "END",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co29819",
+        "progress": 100.0
+    }
+]
