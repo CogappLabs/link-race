@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <Path path={path.slice(0, progress)} />
+      <Path path={path.slice(progress - 1, progress)} />
     </div>
   );
 }
