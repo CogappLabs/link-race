@@ -1,13 +1,19 @@
 import React from "react";
 import Step from "./step";
 
-const Path = ({ path, showNeighbours }) => {
+const Path = ({ path, showNeighbours, progress, setProgress }) => {
   if (showNeighbours) {
     return (
       <div>
         <ul>
           {path.map((step) => (
-            <Step key={step.url} step={step} showNeighbours={showNeighbours} />
+            <Step
+              key={step.url}
+              step={step}
+              showNeighbours={showNeighbours}
+              progress={progress}
+              setProgress={setProgress}
+            />
           ))}
         </ul>
       </div>
@@ -17,7 +23,13 @@ const Path = ({ path, showNeighbours }) => {
       <div>
         <ol>
           {path.map((step) => (
-            <Step key={step.url} step={step} showNeighbours={showNeighbours} />
+            <Step
+              key={step.url}
+              step={step}
+              showNeighbours={showNeighbours}
+              progress={progress}
+              setProgress={setProgress}
+            />
           ))}
         </ol>
       </div>

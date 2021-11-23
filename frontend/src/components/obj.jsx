@@ -20,9 +20,9 @@ const Obj = ({ url }) => {
       </div>
       <div className="right">
         <h1>{metadata.title}</h1>
-        <a>{metadata.description}</a>
+        <p>{metadata.description}</p>
         <br />
-        <a className="find-more" href={url} target="_blank">
+        <a className="find-more" href={url} target="_blank" rel="noreferrer">
           Find out more...
         </a>
       </div>

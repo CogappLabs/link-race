@@ -7,7 +7,7 @@ html {
   display: flex;
   align-items: center;
 
-  height: 120px;
+  min-height: 120px;
   padding: 0.3rem;
   background-color: rgb(240, 240, 240);
   background-clip: content-box;
@@ -33,7 +33,7 @@ html {
 }
 
 .button {
-  height: 100%;
+  min-height: 100%;
   min-width: 100px;
   background: #ff6f47;
   color: white;
