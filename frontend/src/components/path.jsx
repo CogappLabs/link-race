@@ -1,7 +1,14 @@
 import React from "react";
 import Step from "./step";
 
-const Path = ({ path, showNeighbours, progress, setProgress }) => {
+const Path = ({
+  path,
+  showNeighbours,
+  progress,
+  setProgress,
+  neighbours,
+  setNeighbours,
+}) => {
   if (showNeighbours) {
     return (
       <div>
@@ -13,6 +20,8 @@ const Path = ({ path, showNeighbours, progress, setProgress }) => {
               showNeighbours={showNeighbours}
               progress={progress}
               setProgress={setProgress}
+              neighbours={neighbours}
+              setNeighbours={setNeighbours}
             />
           ))}
         </ul>

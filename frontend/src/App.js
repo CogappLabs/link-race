@@ -5,6 +5,7 @@ import path from "./data/single-path.json";
 
 function App() {
   const [progress, setProgress] = useState(1);
+  const [neighbours, setNeighbours] = useState([]);
 
   return (
     <div>
@@ -15,6 +16,8 @@ function App() {
         showNeighbours={true}
         progress={progress}
         setProgress={setProgress}
+        neighbours={neighbours}
+        setNeighbours={setNeighbours}
       />
     </div>
   );
