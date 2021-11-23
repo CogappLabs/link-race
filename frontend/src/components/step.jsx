@@ -22,6 +22,7 @@ const Neighbours = ({
     // else, change tried to true, for CSS styling
     if (e.target.id === step.nextBestStep) {
       setProgress(progress + 1);
+      window.scrollTo({ top: 0 });
     } else {
       setNeighbours(
         neighbours.map((i) =>
