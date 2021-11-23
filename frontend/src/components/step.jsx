@@ -8,9 +8,7 @@ const Neighbours = ({ step }) => {
         <li key={neighbour}>
           <div className="option">
             <Obj url={neighbour} />
-            <div className="button">
-              <a>Click?</a>
-            </div>
+            <button className="button">Step here</button>
           </div>
         </li>
       ))}
