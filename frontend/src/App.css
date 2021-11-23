@@ -2,6 +2,10 @@ html {
   font-size: 0.6rem;
 }
 
+h1 {
+  text-align: center;
+}
+
 .option,
 .parent {
   display: flex;

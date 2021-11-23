@@ -19,7 +19,7 @@ const Obj = ({ url }) => {
         <img src={metadata.img} alt={metadata.title} width="100" height="100" />
       </div>
       <div className="right">
-        <h1>{metadata.title}</h1>
+        <h2>{metadata.title}</h2>
         <p>{metadata.description}</p>
         <br />
         <a className="find-more" href={url} target="_blank" rel="noreferrer">
