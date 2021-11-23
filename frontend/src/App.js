@@ -8,7 +8,8 @@ function App() {
 
   return (
     <div>
-      <Path path={path.slice(progress - 1, progress)} />
+      <Path path={path.slice(0, progress - 1)} showNeighbours={false} />
+      <Path path={path.slice(progress - 1, progress)} showNeighbours={true} />
     </div>
   );
 }
