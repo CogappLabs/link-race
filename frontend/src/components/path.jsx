@@ -23,13 +23,7 @@ const Path = ({ path, showNeighbours, progress, setProgress }) => {
       <div>
         <ol>
           {path.map((step) => (
-            <Step
-              key={step.url}
-              step={step}
-              showNeighbours={showNeighbours}
-              progress={progress}
-              setProgress={setProgress}
-            />
+            <Step key={step.url} step={step} showNeighbours={showNeighbours} />
           ))}
         </ol>
       </div>

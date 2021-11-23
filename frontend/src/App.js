@@ -9,12 +9,7 @@ function App() {
   return (
     <div>
       <h1>Progress: {path[progress - 1].progress}%</h1>
-      <Path
-        path={path.slice(0, progress - 1)}
-        showNeighbours={false}
-        progress={progress}
-        setProgress={setProgress}
-      />
+      <Path path={path.slice(0, progress - 1)} showNeighbours={false} />
       <Path
         path={path.slice(progress - 1, progress)}
         showNeighbours={true}
