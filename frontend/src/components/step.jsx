@@ -10,7 +10,12 @@ const Step = ({ step }) => {
         <ul>
           {[step.nextBestStep, ...step.neighbours].sort().map((neighbour) => (
             <li key={neighbour}>
-              <Obj url={neighbour} />
+              <div className="option">
+                <Obj url={neighbour} />
+                <div className="button">
+                  <a>Click?</a>
+                </div>
+              </div>
             </li>
           ))}
         </ul>

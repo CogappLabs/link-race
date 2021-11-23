@@ -2,6 +2,7 @@ html {
   font-size: 0.6rem;
 }
 
+.option,
 .parent {
   display: flex;
   align-items: center;
@@ -11,13 +12,19 @@ html {
   background-clip: content-box;
 }
 
+.parent {
+  flex-grow: 4;
+}
+
 .left {
   flex: 0;
   padding: 10px;
 }
 
+.button,
 .right {
-  /* padding-bottom: 10px; */
+  justify-content: flex-end;
+  padding-right: 10px;
 }
 
 .find-more {
