@@ -3,11 +3,31 @@ import nodes from "../data/nodes.json";
 
 function urlParse(url, nodes) {
   const metadata = nodes[url];
-  return [url, metadata.title, metadata.description, metadata.img];
+  return {
+    url: url,
+    title: metadata.title,
+    description: metadata.description,
+    img: metadata.img,
+  };
 }
 
 const Obj = ({ url }) => {
-  return <a>{url}</a>;
+  const metadata = urlParse(url, nodes);
+  return (
+    <div className="parent">
+      <div className="left">
+        <img src={metadata.img} alt={metadata.title} width="100" height="100" />
+      </div>
+      <div className="right">
+        <h1>{metadata.title}</h1>
+        <a>{metadata.description}</a>
+        <br />
+        <a className="find-more" href={url} target="_blank">
+          Find out more...
+        </a>
+      </div>
+    </div>
+  );
 };
 
 export default Obj;

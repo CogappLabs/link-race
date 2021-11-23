@@ -1,0 +1,25 @@
+html {
+  font-size: 0.6rem;
+}
+
+.parent {
+  display: flex;
+  align-items: center;
+
+  padding: 0.3rem;
+  background-color: rgb(240, 240, 240);
+  background-clip: content-box;
+}
+
+.left {
+  flex: 0;
+  padding: 10px;
+}
+
+.right {
+  /* padding-bottom: 10px; */
+}
+
+.find-more {
+  font-size: 0.8rem;
+}

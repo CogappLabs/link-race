@@ -4,12 +4,12 @@ import Obj from "./obj";
 const Step = ({ step }) => {
   return (
     <div>
-      <a>{step.progress}</a>
+      <a>{step.progress}%</a>
       <li>
         <Obj url={step.url} />
         <ul>
           {[step.nextBestStep, ...step.neighbours].sort().map((neighbour) => (
-            <li>
+            <li key={neighbour}>
               <Obj url={neighbour} />
             </li>
           ))}
