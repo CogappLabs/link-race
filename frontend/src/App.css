@@ -7,6 +7,30 @@ h1 {
   text-align: center;
 }
 
+.sticky {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.header-element {
+  border-bottom: 1px rgb(240, 240, 240) solid;
+  height: 50px;
+  padding: 5px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.header-element img {
+  display: block;
+  margin: 0 auto;
+}
+
 .option,
 .parent {
   display: flex;
