@@ -39,7 +39,7 @@ const Header = ({ path, progress }) => {
     <div className="header-container sticky">
       {progress_tracker.map((el, index) => (
         <div key={index} className="header-element">
-          <img src={el.img} alt={el.url} width="30" height="30" />
+          <img src={el.img} alt={el.url} width="50" height="50" />
           <a href={el.url} target="_blank" rel="noreferrer">
             {el.title}
           </a>
