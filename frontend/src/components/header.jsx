@@ -18,10 +18,10 @@ const Header = ({ path, progress }) => {
       progress_tracker.push(urlParse(path[i].url, nodes));
     } else {
       progress_tracker.push({
-        url: "?",
+        url: null,
         title: "?",
-        description: "?",
-        img: "?",
+        description: null,
+        img: null,
       });
     }
   }
@@ -39,7 +39,7 @@ const Header = ({ path, progress }) => {
     <div className="header-container sticky">
       {progress_tracker.map((el, index) => (
         <div key={index} className="header-element">
-          <img src={el.img} alt={el.title} width="30" height="30" />
+          <img src={el.img} alt={el.url} width="30" height="30" />
           <a href={el.url} target="_blank" rel="noreferrer">
             {el.title}
           </a>
