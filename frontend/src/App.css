@@ -62,7 +62,7 @@ h1 {
 }
 
 .button {
-  min-height: 100%;
+  min-height: 100px;
   min-width: 100px;
   background: #ff6f47;
   color: white;
@@ -74,4 +74,5 @@ h1 {
 .tried {
   text-decoration: line-through;
   opacity: 0.5;
+  cursor: not-allowed;
 }

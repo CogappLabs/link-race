@@ -27,7 +27,7 @@ const Header = ({ path, progress }) => {
   }
   progress_tracker.push(urlParse(path[path.length - 1].url, nodes));
 
-  let Progress_html = () => {
+  let ProgressHTML = () => {
     if (path[progress - 1].progress === 100) {
       return <p>You've found the path!!!</p>;
     } else {
@@ -37,8 +37,8 @@ const Header = ({ path, progress }) => {
 
   return (
     <div className="header-container sticky">
-      {progress_tracker.map((el) => (
-        <div className="header-element">
+      {progress_tracker.map((el, index) => (
+        <div key={index} className="header-element">
           <img src={el.img} alt={el.title} width="30" height="30" />
           <a href={el.url} target="_blank" rel="noreferrer">
             {el.title}
@@ -46,7 +46,7 @@ const Header = ({ path, progress }) => {
         </div>
       ))}
       <div className="header-element">
-        <Progress_html />
+        <ProgressHTML />
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ const Neighbours = ({
   neighbours,
   setNeighbours,
 }) => {
-  // intialise neighbours
+  // initialise neighbours
   useEffect(() => {
     setNeighbours(
       [step.nextBestStep, ...step.neighbours]
