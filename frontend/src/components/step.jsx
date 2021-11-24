@@ -32,22 +32,20 @@ const Neighbours = ({
   };
 
   return (
-    <ul>
+    <div>
       {neighbours.map((neighbour) => (
-        <li key={neighbour.url}>
-          <div className="option">
-            <Obj url={neighbour.url} />
-            <button
-              id={neighbour.url}
-              onClick={stepHandler}
-              className={`button ${neighbour.tried ? "tried" : ""}`}
-            >
-              Step here
-            </button>
-          </div>
-        </li>
+        <div className="option">
+          <Obj url={neighbour.url} />
+          <button
+            id={neighbour.url}
+            onClick={stepHandler}
+            className={`button ${neighbour.tried ? "tried" : ""}`}
+          >
+            Step here
+          </button>
+        </div>
       ))}
-    </ul>
+    </div>
   );
 };
 
@@ -61,9 +59,7 @@ const Step = ({
 }) => {
   return (
     <div>
-      <li>
-        <Obj url={step.url} />
-      </li>
+      <Obj url={step.url} />
       {showNeighbours && (
         <Neighbours
           step={step}

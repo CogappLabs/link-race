@@ -19,7 +19,6 @@ function App() {
     return (
       <div>
         <Header path={path} progress={progress} />
-        <Path path={path.slice(0, progress - 1)} showNeighbours={false} />
         <Path
           path={path.slice(progress - 1, progress)}
           showNeighbours={true}

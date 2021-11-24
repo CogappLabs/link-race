@@ -12,29 +12,25 @@ const Path = ({
   if (showNeighbours) {
     return (
       <div>
-        <ul>
-          {path.map((step) => (
-            <Step
-              key={step.url}
-              step={step}
-              showNeighbours={showNeighbours}
-              progress={progress}
-              setProgress={setProgress}
-              neighbours={neighbours}
-              setNeighbours={setNeighbours}
-            />
-          ))}
-        </ul>
+        {path.map((step) => (
+          <Step
+            key={step.url}
+            step={step}
+            showNeighbours={showNeighbours}
+            progress={progress}
+            setProgress={setProgress}
+            neighbours={neighbours}
+            setNeighbours={setNeighbours}
+          />
+        ))}
       </div>
     );
   } else {
     return (
       <div>
-        <ol>
-          {path.map((step) => (
-            <Step key={step.url} step={step} showNeighbours={showNeighbours} />
-          ))}
-        </ol>
+        {path.map((step) => (
+          <Step key={step.url} step={step} showNeighbours={showNeighbours} />
+        ))}
       </div>
     );
   }
