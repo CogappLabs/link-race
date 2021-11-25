@@ -29,9 +29,9 @@ const Header = ({ path, progress }) => {
 
   let ProgressHTML = () => {
     if (path[progress - 1].progress === 100) {
-      return <p>You've found the path!!!</p>;
+      return <h2>You've found the path!!!</h2>;
     } else {
-      return <p>Progress: {path[progress - 1].progress}%</p>;
+      return <h2>Progress: {path[progress - 1].progress}%</h2>;
     }
   };
 
@@ -39,7 +39,7 @@ const Header = ({ path, progress }) => {
     <div className="header-container sticky">
       {progress_tracker.map((el, index) => (
         <div key={index} className="header-element">
-          <img src={el.img} alt={el.url} width="30" height="30" />
+          <img src={el.img} alt={el.url} width="60" height="60" />
           <a href={el.url} target="_blank" rel="noreferrer">
             {el.title}
           </a>
