@@ -21,6 +21,10 @@ html {
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 }
 
+body {
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=130797) 2 2, pointer;
+}
+
 h1 {
   text-align: center;
 }
@@ -36,6 +40,10 @@ li {
 .sticky {
   position: sticky;
   top: 0;
+}
+
+a {
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=130927) 2 2, pointer;
 }
 
 .header-container {
@@ -135,7 +143,7 @@ li {
   color: #deded2;
   font-weight: 800;
   margin: 10px;
-  cursor: pointer;
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=130927) 2 2, pointer;
   font-size: 1rem;
   font-family: "Orbitron", "Verdana", sans-serif;
 
