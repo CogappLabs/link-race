@@ -21,7 +21,7 @@ There are two parts to this repo, both of which have their own README:
 
 ## Demo
 
-You can see the app via [GitHub Pages TODO]().
+You can see the app via [GitHub Pages](https://cogapplabs.github.io/link-race/).
 
 If you want to run locally, please see the [frontend](./frontend) README.
 

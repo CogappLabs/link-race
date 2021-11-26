@@ -8,3 +8,5 @@ To run the app locally:
 1. `cd {repo}/frontend`
 1. `npm install`
 1. `npm start`
+
+To deploy to GitHub Pages, follow steps [here](https://create-react-app.dev/docs/deployment/#github-pages)
