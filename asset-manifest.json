@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/heritage-connector-link-race/static/css/main.d593d61a.chunk.css",
+    "main.js": "/heritage-connector-link-race/static/js/main.b883b84c.chunk.js",
+    "main.js.map": "/heritage-connector-link-race/static/js/main.b883b84c.chunk.js.map",
+    "runtime-main.js": "/heritage-connector-link-race/static/js/runtime-main.5f6eca6f.js",
+    "runtime-main.js.map": "/heritage-connector-link-race/static/js/runtime-main.5f6eca6f.js.map",
+    "static/js/2.5a784557.chunk.js": "/heritage-connector-link-race/static/js/2.5a784557.chunk.js",
+    "static/js/2.5a784557.chunk.js.map": "/heritage-connector-link-race/static/js/2.5a784557.chunk.js.map",
+    "static/js/3.dbf36fc4.chunk.js": "/heritage-connector-link-race/static/js/3.dbf36fc4.chunk.js",
+    "static/js/3.dbf36fc4.chunk.js.map": "/heritage-connector-link-race/static/js/3.dbf36fc4.chunk.js.map",
+    "index.html": "/heritage-connector-link-race/index.html",
+    "static/css/main.d593d61a.chunk.css.map": "/heritage-connector-link-race/static/css/main.d593d61a.chunk.css.map",
+    "static/js/2.5a784557.chunk.js.LICENSE.txt": "/heritage-connector-link-race/static/js/2.5a784557.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f6eca6f.js",
+    "static/js/2.5a784557.chunk.js",
+    "static/css/main.d593d61a.chunk.css",
+    "static/js/main.b883b84c.chunk.js"
+  ]
+}
