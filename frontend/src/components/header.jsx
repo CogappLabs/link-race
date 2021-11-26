@@ -11,6 +11,10 @@ function urlParse(url, nodes) {
   };
 }
 
+function refreshPage() {
+  window.location.reload(false);
+}
+
 const Header = ({ path, progress }) => {
   const progress_tracker = [];
   for (let i = 0; i < path.length - 1; i++) {
@@ -29,9 +33,15 @@ const Header = ({ path, progress }) => {
 
   let ProgressHTML = () => {
     if (path[progress - 1].progress === 100) {
-      return <h2>You've found the path!!!</h2>;
+      return (
+        <button className="button" onClick={refreshPage}>
+          You've found the path!!! Play Again
+        </button>
+      );
     } else {
-      return <h2>Progress: {path[progress - 1].progress}%</h2>;
+      return (
+        <h2>Progress: {parseFloat(path[progress - 1].progress).toFixed(0)}%</h2>
+      );
     }
   };
 

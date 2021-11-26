@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 import Path from "./components/path";
 import Header from "./components/header";
-import path from "./data/single-path.json";
+import paths from "./data/paths.json";
+const path = paths[Math.floor(Math.random() * paths.length)];
 
 function App() {
   const [progress, setProgress] = useState(1);

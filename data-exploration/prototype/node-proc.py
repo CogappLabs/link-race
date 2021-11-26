@@ -51,7 +51,8 @@ def similarity(a, b):
 
 
 if __name__ == '__main__':
-    paths = load_json('./20211118-173517-paths.json')
+    from sys import argv
+    paths = load_json(argv[1])
     nodes = unique_nodes(paths)
 
     for path in paths:
