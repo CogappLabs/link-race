@@ -61,6 +61,28 @@ def vanda(id):
     }
     return data
 
+def vanda_obj(url):
+    r = requests.get(url).json()
+    id = url.split('=')[1]
+
+    if 'id_person' in url:
+        k = 'person'
+    elif 'id_organisation' in url:
+        k = 'organisation'
+    
+    try:
+        title = [i['value'] for i in r['clusters'][k]['terms'] if i['id'] == id][0]
+    except (KeyError, TypeError, IndexError):
+        title = url
+
+    data = {
+        'title': title,
+        'description': '',
+        'img': '',
+    }
+
+    return data
+
 def wikidata(id):
     r = requests.get(f'https://www.wikidata.org/wiki/Special:EntityData/{id}.json').json()['entities'][id]
 
@@ -92,4 +114,6 @@ if __name__ == '__main__':
     # r = scimu('documents', 'aa110002873')
     # r = scimu('people', 'ap10090')
     # r = vanda('O77348')
-    r = wikidata('Q849759')
+    # r = wikidata('Q849759')
+    r = vanda_obj('https://api.vam.ac.uk/v2/objects/search?id_person=N6077')
+    # r = vanda_obj('https://api.vam.ac.uk/v2/objects/search?id_organisation=A22653')

@@ -1,0 +1,556 @@
+[
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O755026",
+      "nextBestStep": "http://www.wikidata.org/entity/Q90",
+      "neighbours": [
+        "mark w. sullivan",
+        "photographic society",
+        "scotch spirits"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q90",
+      "nextBestStep": "http://collections.vam.ac.uk/item/O154874",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co175511",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH338816",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH328022"
+      ],
+      "progress": 20.0
+    },
+    {
+      "url": "http://collections.vam.ac.uk/item/O154874",
+      "nextBestStep": "http://www.wikidata.org/entity/Q145",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q1054333",
+        "http://www.wikidata.org/entity/Q90",
+        "http://www.wikidata.org/entity/Q5157413"
+      ],
+      "progress": 40.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q145",
+      "nextBestStep": "http://www.wikidata.org/entity/Q7796502",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q2477019",
+        "http://collections.vam.ac.uk/item/O232083",
+        "http://www.wikidata.org/entity/Q7590194"
+      ],
+      "progress": 60.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q7796502",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8203386",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co16409",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8413099",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8421030"
+      ],
+      "progress": 80.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8203386",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O675659",
+      "nextBestStep": "https://api.vam.ac.uk/v2/objects/search?id_person=A28794",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=A28450",
+        "http://www.wikidata.org/entity/Q220",
+        "http://www.wikidata.org/entity/Q150726"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "https://api.vam.ac.uk/v2/objects/search?id_person=A28794",
+      "nextBestStep": "http://www.wikidata.org/entity/Q90",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O972911",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=A7871",
+        "http://collections.vam.ac.uk/item/O675659"
+      ],
+      "progress": 14.285714285714286
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q90",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co166098",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co175511",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH338816",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH328022"
+      ],
+      "progress": 28.571428571428573
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co166098",
+      "nextBestStep": "hamonic collection",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q90",
+        "http://www.wikidata.org/entity/Q116350"
+      ],
+      "progress": 42.85714285714286
+    },
+    {
+      "url": "hamonic collection",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co86365",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co86509",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co87013",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co86502"
+      ],
+      "progress": 57.142857142857146
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co86365",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp99254",
+      "neighbours": [
+        "g.g.s. (printing) ltd.",
+        "great pednor manor",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co205881"
+      ],
+      "progress": 71.42857142857143
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp99254",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co85549",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co89760",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co90162",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co86365"
+      ],
+      "progress": 85.71428571428572
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co85549",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O229512",
+      "nextBestStep": "http://www.wikidata.org/entity/Q213322",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N6077",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH324023",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=C3616"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q213322",
+      "nextBestStep": "http://collections.vam.ac.uk/item/O1155735",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O141065",
+        "http://collections.vam.ac.uk/item/O170636",
+        "http://collections.vam.ac.uk/item/O146929"
+      ],
+      "progress": 25.0
+    },
+    {
+      "url": "http://collections.vam.ac.uk/item/O1155735",
+      "nextBestStep": "http://www.wikidata.org/entity/Q1860",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q213322",
+        "https://api.vam.ac.uk/v2/objects/search?id_organisation=A24973",
+        "http://www.wikidata.org/entity/Q160165"
+      ],
+      "progress": 50.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q1860",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co113666",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co97799",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co174077",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co184294"
+      ],
+      "progress": 75.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co113666",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O1267685",
+      "nextBestStep": "https://api.vam.ac.uk/v2/objects/search?id_person=A22818",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q183266",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N1656",
+        "http://www.wikidata.org/entity/Q16005868"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "https://api.vam.ac.uk/v2/objects/search?id_person=A22818",
+      "nextBestStep": "british",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O163956",
+        "https://api.vam.ac.uk/v2/objects/search?id_organisation=A22653",
+        "http://collections.vam.ac.uk/item/O1268294"
+      ],
+      "progress": 33.333333333333336
+    },
+    {
+      "url": "british",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co412022",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O1151251",
+        "http://collections.vam.ac.uk/item/O1192838",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N8752"
+      ],
+      "progress": 66.66666666666667
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co412022",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O354503",
+      "nextBestStep": "https://api.vam.ac.uk/v2/objects/search?id_person=N2035",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co187134",
+        "http://www.wikidata.org/entity/Q7172595",
+        "http://www.wikidata.org/entity/Q12069586"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "https://api.vam.ac.uk/v2/objects/search?id_person=N2035",
+      "nextBestStep": "http://www.wikidata.org/entity/Q202902",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O744143",
+        "http://collections.vam.ac.uk/item/O1316603",
+        "http://collections.vam.ac.uk/item/O1106262"
+      ],
+      "progress": 20.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q202902",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/cp136671",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co415896",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co67633",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co17216"
+      ],
+      "progress": 40.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp136671",
+      "nextBestStep": "http://www.wikidata.org/entity/Q258",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q149787",
+        "http://www.wikidata.org/entity/Q5430132",
+        "http://www.wikidata.org/entity/Q100"
+      ],
+      "progress": 60.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q258",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co107111",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q4857258",
+        "https://collection.sciencemuseumgroup.org.uk/people/cp119718",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co104938"
+      ],
+      "progress": 80.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co107111",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O1114035",
+      "nextBestStep": "http://www.wikidata.org/entity/Q276116",
+      "neighbours": [
+        "smithmag",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8408382",
+        "http://collections.vam.ac.uk/item/O101087"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q276116",
+      "nextBestStep": "http://www.wikidata.org/entity/Q145",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O1114035",
+        "http://collections.vam.ac.uk/item/O1114037",
+        "http://www.wikidata.org/entity/Q10800557"
+      ],
+      "progress": 20.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q145",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8414694",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q2477019",
+        "http://collections.vam.ac.uk/item/O232083",
+        "http://www.wikidata.org/entity/Q7590194"
+      ],
+      "progress": 40.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8414694",
+      "nextBestStep": "http://www.wikidata.org/entity/Q3298522",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q145",
+        "http://www.wikidata.org/entity/Q5497896",
+        "http://www.wikidata.org/entity/Q18125"
+      ],
+      "progress": 60.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q3298522",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8414500",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8414706",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8414501",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8414678"
+      ],
+      "progress": 80.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8414500",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O1273343",
+      "nextBestStep": "https://api.vam.ac.uk/v2/objects/search?id_person=A35137",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N320",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N2820"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "https://api.vam.ac.uk/v2/objects/search?id_person=A35137",
+      "nextBestStep": "http://www.wikidata.org/entity/Q30",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O1139727",
+        "http://collections.vam.ac.uk/item/O1263199",
+        "http://collections.vam.ac.uk/item/O1261074"
+      ],
+      "progress": 20.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q30",
+      "nextBestStep": "http://collections.vam.ac.uk/item/O1160457",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q372989",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co426015",
+        "http://www.wikidata.org/entity/Q5732648"
+      ],
+      "progress": 40.0
+    },
+    {
+      "url": "http://collections.vam.ac.uk/item/O1160457",
+      "nextBestStep": "chinese",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q30",
+        "http://www.wikidata.org/entity/Q1089576",
+        "http://www.wikidata.org/entity/Q1384"
+      ],
+      "progress": 60.0
+    },
+    {
+      "url": "chinese",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co159111",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8004021",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co125827",
+        "http://collections.vam.ac.uk/item/O716619"
+      ],
+      "progress": 80.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co159111",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O1346307",
+      "nextBestStep": "http://www.wikidata.org/entity/Q17",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=A38430",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=A4703"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q17",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap103",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co123911",
+        "http://www.wikidata.org/entity/Q156034",
+        "http://collections.vam.ac.uk/item/O1519128"
+      ],
+      "progress": 12.5
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap103",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/people/ap315",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co231583",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co414952",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co435142"
+      ],
+      "progress": 25.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/ap315",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co8026880",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co232744",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co424938",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8026878"
+      ],
+      "progress": 37.5
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8026880",
+      "nextBestStep": "diesel",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/people/ap315",
+        "https://collection.sciencemuseumgroup.org.uk/people/cp3862"
+      ],
+      "progress": 50.0
+    },
+    {
+      "url": "diesel",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110115088",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8026880",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co219087",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co219086"
+      ],
+      "progress": 62.5
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110115088",
+      "nextBestStep": "oj cartridge",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O1378449",
+        "love & malcomson limited",
+        "wild lunch"
+      ],
+      "progress": 75.0
+    },
+    {
+      "url": "oj cartridge",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/documents/aa110115036",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/documents/aa110115088",
+        "https://collection.sciencemuseumgroup.org.uk/documents/aa110115446",
+        "https://collection.sciencemuseumgroup.org.uk/documents/aa110114871"
+      ],
+      "progress": 87.5
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/documents/aa110115036",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O224862",
+      "nextBestStep": "http://www.wikidata.org/entity/Q5478624",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH324023",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=C3616",
+        "http://www.wikidata.org/entity/Q213322"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q5478624",
+      "nextBestStep": "http://collections.vam.ac.uk/item/O75771",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O224862",
+        "http://collections.vam.ac.uk/item/O224841",
+        "http://collections.vam.ac.uk/item/O1154238"
+      ],
+      "progress": 25.0
+    },
+    {
+      "url": "http://collections.vam.ac.uk/item/O75771",
+      "nextBestStep": "http://www.wikidata.org/entity/Q84",
+      "neighbours": [
+        "https://api.vam.ac.uk/v2/objects/search?id_person=C7066",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N7036",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=N11778"
+      ],
+      "progress": 50.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q84",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co181351",
+      "neighbours": [
+        "http://collections.vam.ac.uk/item/O1309580",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=A26625",
+        "https://api.vam.ac.uk/v2/objects/search?id_person=AUTH332899"
+      ],
+      "progress": 75.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co181351",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ],
+  [
+    {
+      "url": "http://collections.vam.ac.uk/item/O590605",
+      "nextBestStep": "http://www.wikidata.org/entity/Q21",
+      "neighbours": [
+        "http://www.wikidata.org/entity/Q148"
+      ],
+      "progress": 0.0
+    },
+    {
+      "url": "http://www.wikidata.org/entity/Q21",
+      "nextBestStep": "https://collection.sciencemuseumgroup.org.uk/objects/co26352",
+      "neighbours": [
+        "https://collection.sciencemuseumgroup.org.uk/objects/co142368",
+        "https://collection.sciencemuseumgroup.org.uk/objects/co8179370",
+        "http://collections.vam.ac.uk/item/O119827"
+      ],
+      "progress": 50.0
+    },
+    {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co26352",
+      "nextBestStep": "END",
+      "neighbours": [],
+      "progress": 100.0
+    }
+  ]
+]
